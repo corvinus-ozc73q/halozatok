@@ -1,0 +1,33 @@
+﻿body {
+    
+<div id="Korbács Gábor>
+  <div id="Bemutatkozás">
+    <h1>CV</h1>
+    <h2> 1.rész</h2>
+    <p><span>Budapesten</span> születtem, 1998-ban. 8 évesen kezdtem el vizilabdázni, amit a mai napig is rendszeren csinálom.</p>
+    <h2>2.rész</h2>
+    <p>Az általános iskolai tanulmányaimat a Váci utcai ének-zenei Általános Iskolában kezdtem el, valamint fejeztem is be. Ezek tán a Leövey Klára Gimnáziumban folytattam a tanulmányaimat majd pedig a Corvinus Egyetemre sikerült bekerülnöm.
+    </p>
+    <a href="http://www.google.com" target="_blank">Ez a google oldala</a>
+
+  </div>
+  <div id="Listák">
+    <p>Nagy városok:</p>
+    <ul class="megisfeher">
+      <li>New York</li>
+      <li>London</li>
+      <li>Los Angeles</li>
+    </ul>
+    <p>Kedvenc könyveim:</p>
+    <ol class="sorrendi">
+      <li>A képlet</li>
+      <li>Villanások</li>
+      <li>Behálózva</li>
+    </ol>
+  </div>
+  <div id="kep">
+    <img src="https://szoft1.comeback.hu/hajo/penguin.jpg" alt="ez egy pingvin">
+    
+  </div>
+</div>
+}
