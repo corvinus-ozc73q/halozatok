@@ -17,7 +17,7 @@
         }
     }
 
-    //pascal háromszög scriptek innentől
+    
 
     let pascal = document.getElementById("pascal")
     pascal.innerHTML = ""
